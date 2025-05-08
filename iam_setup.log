@@ -1,0 +1,23 @@
+2025-05-08 07:56:24 - -----IAM script started-----
+2025-05-08 07:56:24 - User 'jdoe' created with fullname 'John Doe'.
+2025-05-08 07:56:24 - Group engineering created.
+2025-05-08 07:56:24 - Password meets the custom policy requirements.
+2025-05-08 07:56:24 - Default password set for user 'jdoe'.
+2025-05-08 07:56:24 - Force password change on first login for user 'jdoe'.
+2025-05-08 07:56:24 - Set user home directory to 700 for user 'jdoe'.
+2025-05-08 07:56:25 - Email sent to mickylamp2.ml@gmail.com for user jdoe.
+2025-05-08 07:56:25 - User 'asmith' created with fullname 'Alice Smith'.
+2025-05-08 07:56:25 - Group engineering already exists. Skipping.
+2025-05-08 07:56:25 - Password meets the custom policy requirements.
+2025-05-08 07:56:25 - Default password set for user 'asmith'.
+2025-05-08 07:56:25 - Force password change on first login for user 'asmith'.
+2025-05-08 07:56:25 - Set user home directory to 700 for user 'asmith'.
+2025-05-08 07:56:26 - Email sent to cewame9585@javbing.com for user asmith.
+2025-05-08 07:56:26 - User 'mjones' created with fullname 'Mike Jones'.
+2025-05-08 07:56:26 - Group design created.
+2025-05-08 07:56:26 - Password meets the custom policy requirements.
+2025-05-08 07:56:26 - Default password set for user 'mjones'.
+2025-05-08 07:56:26 - Force password change on first login for user 'mjones'.
+2025-05-08 07:56:26 - Set user home directory to 700 for user 'mjones'.
+2025-05-08 07:56:28 - Email sent to semlilapso@gufum.com for user mjones.
+2025-05-08 07:56:28 - -----IAM script completed-----

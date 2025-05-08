@@ -1,0 +1,4 @@
+username,fullname,group,email
+jdoe,John Doe,engineering,mickylamp2.ml@gmail.com
+asmith,Alice Smith,engineering,cewame9585@javbing.com 
+mjones,Mike Jones,design,semlilapso@gufum.com
